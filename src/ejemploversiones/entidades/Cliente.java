@@ -10,5 +10,8 @@ package ejemploversiones.entidades;
  * @author User
  */
 public class Cliente {
-    
+
+    public static void presente() {
+        System.out.println("Un cristian hizo presencia");
+    }
 }
